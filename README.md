@@ -1,4 +1,4 @@
 # classroom01
 A community classroom
 
-- hari says this communitty is amazing
+- hari says this communitty is amazing and good
