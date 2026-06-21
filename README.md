@@ -2,4 +2,6 @@
 A community classroom
 
 - hari says this communitty is amazing and good
-- this is an example for merge conflict
+-------dhan-hari made this change in line 5
+6 dhan
+
